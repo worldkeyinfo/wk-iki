@@ -10,7 +10,7 @@ Overview of the WorldKey Information Service System
 :summary: Overview of the WorldKey Information Service system
 
 The WorldKey Information Service was a touch-screen based information system located
-at EPCOT Center between it's opening in 1982, until the mid-1990s. It allowed users to
+at EPCOT Center between it's opening in 1982, until closure on March 21st 1999. It allowed users to
 view the maps, and location information of EPCOT's attractions, and also allowed for 2-way
 video communication between the user and a cast member, by way of two video cameras (a black and
 white video camera for the user, and a colour video camera for the cast member).
