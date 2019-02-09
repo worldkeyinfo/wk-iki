@@ -25,7 +25,7 @@ jobs:
             pip install --user pipenv
             python -m pipenv install
             python -m pipenv run make github
-
+            
       - store_artifacts:
           path: test-reports
           destination: test-reports
