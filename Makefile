@@ -76,8 +76,8 @@ publish:
 
 github: publish
 	ifeq ($(GITHUB_PAGES_BRANCH), "develop")
-		ghp-import -m "Generate Pelican site" -b $(GITHUB_PAGES_BRANCH) $(OUTPUTDIR)\
-		git push -fq https://${GH_TOKEN}@github.com/${ORGNAME}/${REPONAME}.git  $(GITHUB_PAGES_BRANCH);
+		ghp-import -m "Generate Pelican site" -b $(GITHUB_PAGES_BRANCH) $(OUTPUTDIR)
+		git push -fq https://${GH_TOKEN}@github.com/${ORGNAME}/${REPONAME}.git  $(GITHUB_PAGES_BRANCH)
 	else
 		echo "Branch isn't develop, so not building"
 		exit 0
