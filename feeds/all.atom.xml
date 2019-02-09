@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>World Key Information - IKI</title><link href="/" rel="alternate"></link><link href="/feeds/all.atom.xml" rel="self"></link><id>/</id><updated>2019-02-03T13:15:00+00:00</updated><entry><title>Further Reading/Watching</title><link href="/further-reading.html" rel="alternate"></link><published>2019-02-03T13:15:00+00:00</published><updated>2019-02-03T13:15:00+00:00</updated><author><name>Ryan Collins</name></author><id>tag:None,2019-02-03:/further-reading.html</id><summary type="html">&lt;p class="first last"&gt;Places you can learn more about WorldKey/see it in action&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;Information about WorldKey is fairly sparse online. Here are a few places
+that you can learn more about WorldKey, it's technologies, and see the system
+in action.&lt;/p&gt;
+&lt;div class="section" id="videos"&gt;
+&lt;h2&gt;Videos&lt;/h2&gt;
+&lt;div class="section" id="epcot-center-s-worldkey-information-system-documentary-1984"&gt;
+&lt;h3&gt;&lt;a class="reference external" href="https://www.youtube.com/watch?v=AqMwKtpsWb4"&gt;EPCOT Center's WorldKey Information System Documentary (1984)&lt;/a&gt;.&lt;/h3&gt;
+&lt;p&gt;This is an official documentary published by the Walt Disney Company.
+It explains some information introducing the system, and the basic technologies
+behind the WorldKey system (loosely).&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="worldkey-information-at-epcot-center"&gt;
+&lt;h3&gt;&lt;a class="reference external" href="https://www.youtube.com/watch?v=kM2lgMitoVY"&gt;WorldKey Information at EPCOT Center&lt;/a&gt;.&lt;/h3&gt;
+&lt;p&gt;This contains a video shot by MartinsVidsDotNet containing a screen recording
+of the use of the system, along with some information about how it worked and the
+failings of the system.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="william-shatner-and-world-key-system-at-epcot"&gt;
+&lt;h3&gt;&lt;a class="reference external" href="_WillShatnerAndWorldKey_"&gt;William Shatner and World Key System at EPCOT&lt;/a&gt;.&lt;/h3&gt;
+&lt;p&gt;Once again, this explains WorldKey's functionality, and includes some screen recording
+with the 'Bit' character.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="world-key-information-service-screen-view-1991"&gt;
+&lt;h3&gt;&lt;a class="reference external" href="_ScreenView1991_"&gt;World Key Information Service Screen View 1991&lt;/a&gt;.&lt;/h3&gt;
+&lt;p&gt;This is a screen recording of the WorldKey system from 1991, including
+a recording of the audio from the WorldKey system.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="epcot-center-worldkey-information-service"&gt;
+&lt;h3&gt;&lt;a class="reference external" href="_ScreenView1990_"&gt;EPCOT Center WorldKey Information Service&lt;/a&gt;.&lt;/h3&gt;
+&lt;p&gt;This is a screen recording of WorldKey from 1990. It explains the WorldKey functionality
+and shows some of the views.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="worldkey-information-systems"&gt;
+&lt;h3&gt;&lt;a class="reference external" href="_BeforeBit_"&gt;Worldkey Information Systems&lt;/a&gt;.&lt;/h3&gt;
+&lt;p&gt;This is the pre-Bit explaination of WorldKey, possibly source quality from the initial version of the WorldKey system.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</content><category term="overview"></category></entry><entry><title>Overview of the WorldKey Information Service System</title><link href="/video.html" rel="alternate"></link><published>2019-02-03T13:15:00+00:00</published><updated>2019-02-03T13:15:00+00:00</updated><author><name>Ryan Collins</name></author><id>tag:None,2019-02-03:/video.html</id><summary type="html">&lt;p class="first last"&gt;Overview of the WorldKey Information Service system&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;The WorldKey Information Service was a touch-screen based information system located
+at EPCOT Center between it's opening in 1982, until closure on March 21st 1999. It allowed users to
+view the maps, and location information of EPCOT's attractions, and also allowed for 2-way
+video communication between the user and a cast member, by way of two video cameras (a black and
+white video camera for the user, and a colour video camera for the cast member).&lt;/p&gt;
+&lt;p&gt;In 1982, the host appeared to be generic human, but by around 1984 (estimate) the host was replaced with
+a character called 'Bit'.&lt;/p&gt;
+&lt;p&gt;The information was displayed in a hierarchial format, in a tree like structure.&lt;/p&gt;
+&lt;p&gt;The Future World kiosks were initially located within the Space Ship Earth (SSE) postshow, but these were later relocated to outside
+Guest Relations (where they remained until closure). Several were also located around the World Showcase. In total, there were 29 terminals
+at 5 locations around the park.&lt;/p&gt;
+</content><category term="overview"></category></entry><entry><title>Video Disc</title><link href="/video-disc.html" rel="alternate"></link><published>2019-02-03T12:56:00+00:00</published><updated>2019-02-03T12:56:00+00:00</updated><author><name>Ryan Collins</name></author><id>tag:None,2019-02-03:/video-disc.html</id><summary type="html">&lt;p class="first last"&gt;Information about the videodisc functionality of WorldKey&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;WorldKey was designed to be very user friendly and simple.&lt;/p&gt;
+&lt;p&gt;Generating on the fly video and audio wasn't feasible at the time, so an alternative was needed.
+That's where 'Video Disc' or 'LaserDisc' came in.&lt;/p&gt;
+&lt;p&gt;Initially, the laserdisc player used was the Sony LDP-1000(a), which allowed for programming using
+the RS232-C protocol.&lt;/p&gt;
+&lt;p&gt;The content on this disc however wasn't easily updatable (it would require an entirely new disc be created, which
+is expensive considering one disc per player would be needed). That's why an overlay feature was implemented to overlay text
+onto the laserdisc video.&lt;/p&gt;
+</content><category term="video disc"></category></entry></feed>
