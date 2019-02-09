@@ -23,8 +23,8 @@ jobs:
           name: install dependencies
           command: |
             pip install --user pipenv
-            pipenv install
-            pipenv run make github
+            python -m pipenv install
+            python -m pipenv run make github
 
       - store_artifacts:
           path: test-reports
