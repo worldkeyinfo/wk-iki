@@ -22,9 +22,12 @@ jobs:
       - run:
           name: install dependencies
           command: |
-            pip install --user pelican
-            alias pelican='python3 -m pelican'
-            make github
+            pip install --user pipenv
+            pipenv install
+            
+      - build_github:
+          name: build github
+          command: pipenv run make github
 
       - store_artifacts:
           path: test-reports
