@@ -75,13 +75,11 @@ publish:
 	$(PELICAN) $(INPUTDIR) -o $(OUTPUTDIR) -s $(PUBLISHCONF) $(PELICANOPTS)
 
 github: publish
-	if [ $(GITHUB_PAGES_BRANCH) = "develop" ]; 
-	then \
+	ifeq ($(GITHUB_PAGES_BRANCH), "develop")
 		ghp-import -m "Generate Pelican site" -b $(GITHUB_PAGES_BRANCH) $(OUTPUTDIR)\
 		git push -fq https://${GH_TOKEN}@github.com/${ORGNAME}/${REPONAME}.git  $(GITHUB_PAGES_BRANCH);
-	else \
-		echo "Ignore, as this is not the develop branch." \
-		exit 1;
-	fi
-
+	else
+		echo "Branch isn't develop, so not building"
+		exit 0
+	endif
 .PHONY: html help clean regenerate serve serve-global devserver stopserver publish github
