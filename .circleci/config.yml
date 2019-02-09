@@ -24,10 +24,7 @@ jobs:
           command: |
             pip install --user pipenv
             pipenv install
-            
-      - build_github:
-          name: build github
-          command: pipenv run make github
+            pipenv run make github
 
       - store_artifacts:
           path: test-reports
